@@ -1,4 +1,4 @@
-<div style="algin: center"><h1>目录</h1></div>
+<h1 style="text-align:center">目录</h1>
 
 ## 数学计算
 
